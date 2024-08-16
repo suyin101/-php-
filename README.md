@@ -101,4 +101,4 @@ php start.php restart -d
 端口检测工具：tool.chinaz.com/port（端口是否正确开启检查工具）
 
 源码下载
-​https://www.suyinwl.top/938.html
+​https://www.suyin66.com/phpkefuyuanma.html
